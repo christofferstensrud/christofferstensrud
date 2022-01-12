@@ -1,20 +1,10 @@
-### Hi there 👋
+# Hi there, I am Christoffer 👋
 
-<!--
-**christofferstensrud/christofferstensrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Master of Science in Informatics at [NTNU](https://www.ntnu.edu/studies/msit)
+- 🌎 Sandefjord, Norway
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://now-playing-profile-nu-eight.vercel.app/now-playing">
-    <img src="https://now-playing-profile-nu-eight.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+| 🎵 I am currently listening to this song 🎵                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://now-playing-profile-nu-eight.vercel.app/now-playing"><img src="https://now-playing-profile-nu-eight.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a> |
