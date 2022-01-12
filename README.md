@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://now-playing-profile-68h4sufkc-christofferstensrud.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile-68h4sufkc-christofferstensrud.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+<a href="https://now-playing-profile-nu-eight.vercel.app/now-playing">
+    <img src="https://now-playing-profile-nu-eight.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
