@@ -3,6 +3,8 @@
 - 🎓 Studying Informatics at [NTNU](https://www.ntnu.edu/studies/msit)
 - 🌎 Sandefjord, Norway
 
+You may know me from ```hem```, where I ```hem```.
+
 ---
 
 🎵 I am currently listening to
