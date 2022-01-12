@@ -7,4 +7,6 @@
 
 🎵 I am currently listening to
 
-<a href="https://now-playing-profile-nu-eight.vercel.app/now-playing"><img src="https://now-playing-profile-nu-eight.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>
+<div style="background-color:white;width:300px;padding:5px;padding-left:8px;padding-right:10px">
+<a href="https://now-playing-profile-nu-eight.vercel.app/now-playing?open"><img src="https://now-playing-profile-nu-eight.vercel.app/now-playing" width="300" height="75" alt="Now Playing"></a>
+</div>
