@@ -1,6 +1,6 @@
 # Hi there, I am Christoffer 👋
 
-- 🎓 Studying Informatics at [NTNU](https://www.ntnu.edu/studies/msit)
+- 🎓 Studying informatics at [NTNU](https://www.ntnu.edu/studies/msit)
 - 🌎 Sandefjord, Norway
 
 You may know me from ```hem```
